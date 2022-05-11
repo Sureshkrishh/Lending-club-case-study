@@ -1,6 +1,6 @@
 ## Lending club case study 
 ### Description of project
-![Lending club](https://github.com/Sureshkrishh/Lending_club_case_study/blob/main/lending_club%20image.PNG)
+![Lending club](https://github.com/Sureshkrishh/Lending-club-case-study/blob/main/lending_club%20image.PNG)
 > Lending a loan is "risky" decision that a company takes .To avoid financial loss a company must choose to finance people cautiously.
  - The study identifies the risky loan applicants who might end up being a "defaulter" and can significantly bring financial loss to the lending company.
  - A rigourous analysis is done to identify those driving factors which helps us narrow down to pinpoint who might end up being a defaulter.
